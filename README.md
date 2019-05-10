@@ -1,5 +1,6 @@
 # RMTCovEst
-Implement the improved covariance estimation for large class of metrics
+Implement the improved covariance estimation for large class of metrics from paper
+'Random Matrix Improved Covariance Estimation for a Large Class of Metrics, ICML 2019'
 
 # 2 versions of the code: 
 Version 1 Implementation of the algorithm 2 for linear shrinkage initialization--> Faster implementation
