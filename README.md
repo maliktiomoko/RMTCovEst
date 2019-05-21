@@ -5,7 +5,7 @@ Implement the improved covariance estimation for large class of metrics from pap
 # 2 versions of the code: 
 Version 1 Implementation of the algorithm 2 for linear shrinkage initialization--> Faster implementation
 
-Version 2 Implementation of the algorithm 1 for genral initialization
+Version 2 Implementation of the algorithm 1 for general initialization
 # RMTCovEst
 Implement the improved covariance estimation for large class of metrics
 
